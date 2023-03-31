@@ -10,4 +10,8 @@ h2 {
 }
 img {
   border-radius: 50%;
-}  
+}
+#work {
+  text-align: center;
+  width: 93%;
+}
